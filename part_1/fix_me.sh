@@ -24,8 +24,7 @@ mod=$((a % b))
           echo Increment operator when applied on "a" results into a = $a
 
       ((--b))
-          echo Decrement
-          operator when applied on "b" results into b = $b
+          echo Decrement operator when applied on "b" results into b = $b
 
 (
 (--c)
