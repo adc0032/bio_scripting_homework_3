@@ -1,12 +1,11 @@
 #!/bin/bash
 
 # Reading data from the user's input
-read - p 'Enter a : ' a
-           read
-    - p 'Enter b : ' b
+read -p 'Enter a : ' a
 
-          add
-    = $((a + b))
+read -p 'Enter b : ' b
+
+add=$((a + b))
         echo Addition of a and b are $add
 
             sub
