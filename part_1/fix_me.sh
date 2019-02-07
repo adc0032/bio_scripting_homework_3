@@ -14,7 +14,7 @@ sub=$((a - b))
 mul=$((a * b))
         echo Multiplication of a and b are $mul
 
-div=$((a / d))
+div=$((a / b))
         echo division of a and b are $div
 
             mod
