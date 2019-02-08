@@ -14,5 +14,6 @@ echo >> sys_info.log
 
 echo "Current System Uptime: $sysup" >> sys_info.log
 
+echo >>sys_info.log
 
-
+echo "============================================" >> sys_info.log
