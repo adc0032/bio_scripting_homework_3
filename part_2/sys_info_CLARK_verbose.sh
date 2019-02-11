@@ -37,4 +37,4 @@ echo
 echo
 echo "See ya later, alligator"
 
-
+exit 0
